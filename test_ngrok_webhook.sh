@@ -2,7 +2,7 @@
 set -e
 
 FB_APP_SECRET="0187146a6926437ecdaa2cc1d25e8bd6"
-NGROK_URL="https://cbf128e28ff2.ngrok-free.app"
+NGROK_URL="https://46a395eb51af.ngrok-free.app"
 
 payload='{"entry":[{"messaging":[{"sender":{"id":"TEST_USER_123"},"message":{"text":"Hello from test - forwarding to Telegram!"}}]}]}'
 
